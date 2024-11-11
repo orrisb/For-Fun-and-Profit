@@ -2,11 +2,7 @@
 Andy Budd (www.andybudd.com) for the book
 "Blog Design Solutions", and is released under a Creative Commons
 Attribution-NonCommercial-ShareAlike 2.5 License*/
-body { 	margin: 0; padding: 0; text-align: center; background: #e6e6e6; font: 76%/1.6 "Lucida Grande", Geneva, Verdana, sans-serif;text-align:center; 
-	font:black arial medium; 
-	background:#FFF url(../images/green-grad.jpg) repeat-x; 
-	margin:auto; 
-	width:970px; 
+body { 	margin: 0; padding: 0; text-align: center; background: #e6e6e6; font: 76%/1.6 "Lucida Grande", Geneva, Verdana, sans-serif;
 }
 /*add display attributes for the semantic tags*/
 header, footer, section, article, nav { display:block; 
