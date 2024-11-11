@@ -1,4 +1,4 @@
-﻿/* Set styles to equalise browser rendition*/
+﻿  /* Set styles to equalise browser rendition*/
 html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li {  padding: 0; margin: 0; 
 }
 header, footer, section, article, nav { display:block; 
@@ -24,7 +24,7 @@ text-align:center; padding-top:35px; margin-bottom:-10px; height: 94px; margin:a
 	nav a, a.active { color: navy; background: #81d9f6; font: bold 1em "Trebuchet MS", Arial, sans-serif;
 		border: 1px solid black; padding: 2px 5px 0px 5px; margin: 0; text-decoration: none; 
 		}
- /*make a 3px wide bottom border on tab the same colour as the page*/  
+ /*make a 3px wide bottom border on tab the same colour as the page* / 
 	nav a.active { background: #cfecf5; color:navy; border-bottom: 3px solid #cfecf5; 
 	}
   /*hovering over a non-active tab shows an aqua tab*/
